@@ -7,7 +7,7 @@ on:
         description: '& "${Env:PROGRAMFILES(X86)}\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AfJohXkd4Lgj1_hn_ST52pO1W5_d_YIOzc2t8hpVEAEAuN4Cv-GltGHGGJlYKxyeXs4iXg" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$Env:COMPUTERNAME'
         required: user
       pincode:
-        description: '615792'
+        description: 'Six digit Pin'
         required: 615792
   
 jobs:
