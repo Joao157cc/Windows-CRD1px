@@ -8,7 +8,7 @@ on:
         required: user
       pincode:
         description: '615792'
-        required: true
+        required: 615792
   
 jobs:
   build:
